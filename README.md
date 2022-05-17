@@ -13,6 +13,7 @@ npm run start
 ```
 
 You can then see the website at [http://localhost:3000](http://localhost:3000) in your browser.
+Now also available at [westmountcc.ca]!
 
 For people in the coding club you can reach out on the discord the get the MongoDB URI and password.
 
